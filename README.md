@@ -1,7 +1,20 @@
 
 Live Demo :https://simple-dashboard-2-layout.netlify.app/
+.
 
 
+
+
+.
+
+
+.
+
+
+.
+
+
+.
 
 
 
